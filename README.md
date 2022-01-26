@@ -12,4 +12,4 @@ FCFM UANL
 
 ## Tareas Primer Parcial
 
-- [Tarea_1]()
+- [Tarea_1](https://github.com/aaron-v-kane/Tareas_EstadisticaAplicada_15/blob/main/AVK_1848627_EstadisticaAplicadaG51_tarea1.ipynb)
