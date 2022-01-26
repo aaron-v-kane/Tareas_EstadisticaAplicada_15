@@ -9,3 +9,7 @@ Estadística Aplicada
 Licenciatura en Actuaría
 
 FCFM UANL
+
+## Tareas Primer Parcial
+
+- [Tarea_1]()
