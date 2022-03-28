@@ -29,3 +29,10 @@ FCFM UANL
 ## Tareas Segundo Parcial
 
 - [Tarea_7](https://github.com/aaron-v-kane/Tareas_EstadisticaAplicada_15/blob/main/AVK_1848627_EAG51_actividad7_mar22.ipynb)
+
+## Segundo Parcial
+
+- [Primer Ejercicio](https://github.com/aaron-v-kane/Tareas_EstadisticaAplicada_15/blob/main/AVK_1848627_EstadisticaAplicadaG51_parcial2a.ipynb)
+
+- [Segundo Ejercicio](https://github.com/aaron-v-kane/Tareas_EstadisticaAplicada_15/blob/main/AVK_1848627_EstadisticaAplicadaG51_parcial2b.ipynb)
+
