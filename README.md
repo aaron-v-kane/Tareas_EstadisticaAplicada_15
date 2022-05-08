@@ -36,3 +36,7 @@ FCFM UANL
 
 - [Segundo Ejercicio](https://github.com/aaron-v-kane/Tareas_EstadisticaAplicada_15/blob/main/AVK_1848627_EstadisticaAplicadaG51_parcial2b.ipynb)
 
+## Tareas Tercer Parcial
+
+- [Tarea_Cox](https://github.com/aaron-v-kane/Tareas_EstadisticaAplicada_15/blob/main/AVK_1848627_EA51_actividadcox_may2022.ipynb)
+
