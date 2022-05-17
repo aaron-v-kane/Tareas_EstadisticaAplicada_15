@@ -40,3 +40,8 @@ FCFM UANL
 
 - [Tarea_Cox](https://github.com/aaron-v-kane/Tareas_EstadisticaAplicada_15/blob/main/AVK_1848627_EA51_actividadcox_may2022.ipynb)
 
+## Tercer Parcial
+
+- [Tercer Parcial](https://github.com/aaron-v-kane/Tareas_EstadisticaAplicada_15/blob/main/AVK_1848627_EstadisticaAplicadaG51_parcial3.ipynb)
+
+
